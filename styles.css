@@ -103,3 +103,24 @@ img.imoje{
     text-align: center;
 
 }
+.quote{
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-size: 36px;
+    padding: 20px 350px;
+    padding-bottom: 5px;
+    font-weight: 300;
+    font-style: italic;
+    
+}
+.scor{
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-weight: 600;
+    text-align: right;
+    padding: 1px 380px;
+    font-size: 30px;
+
+
+
+}
