@@ -72,3 +72,34 @@ button.sign{
     color: #f9faf8;
     background: royalblue;
 }
+
+.rando{
+    background-color: white;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+    margin: 40px;
+}
+.inform{
+    display: flex;
+    padding: 20px 250px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-bottom: 80px;
+    
+}
+img.imoje{
+    width: 200px;
+    height: 200px;
+    
+    border: 5px royalblue;
+    border-radius: 20%;
+    border-style: solid;
+}
+.tex{
+    width: 200px;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
