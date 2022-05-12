@@ -128,7 +128,7 @@ button.ups.sign
     
     border: 2px;
     border-style: solid;
-    border-color: white;
+    border-color: #f9faf8;
 }
 .action{
     display: flex;
@@ -151,4 +151,12 @@ button.ups.sign
 }
 .quoq{
     font-size: 24px;
+}
+
+.feet{
+    background-color: #1f2937;
+    text-align: center;
+    color: #f9faf8;
+    font-size: 18px;
+    padding: 50px;
 }
